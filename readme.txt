@@ -1,5 +1,5 @@
 === PixProof ===
-Contributors: http://profiles.wordpress.org/babbardel, http://profiles.wordpress.org/euthelup
+Contributors: babbardel, euthelup
 Tags: gallery, proofing, images, photography
 Requires at least: 3.8.0
 Tested up to: 3.4
