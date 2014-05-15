@@ -13,8 +13,13 @@ Pixproof it allows you to have a protected straight forward environment to discu
 
 PixProof is a custom WordPress plugin that is meant to ease the way photographers interact with their clients. It allows you to have a protected straight forward environment to discuss and proof photos from photo shootings, all in a interactive, AJAX based, interface.
 
+PixProof Gallery [Demo #1](http://bit.ly/1m3LmS0) (use ‘demo’ as password)
+
 It is a simple to use plugin (no features bonanza here :) ) that uses a custom post type called Proof Galleries to help you manage your "clients" galleries separated from other post types you may have around (like regular galleries or projects). 
+
 These can be either public galleries (you will use the fact that the URL is not public and provide it only to your client) or password protected galleries (this is the recommended way) and you will provide the URL and the password to your individual clients (you can even make them private galleries - it is up to you).
+
+You can read more about PixProof plugin on this article: [How to proof photos with your clients using PixProof WordPress plugin](https://help.pixelgrade.com/support/solutions/articles/4000007508-pixproof-custom-plugin-or-how-to-proof-photos-with-your-clients-the-easy)
 
 == Installation ==
 
