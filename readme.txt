@@ -1,5 +1,5 @@
 === PixProof ===
-Contributors: babbardel, euthelup, cristianfrumusanu
+Contributors: babbardel, vlad.olaru, euthelup, cristianfrumusanu
 Tags: gallery, proofing, images, photography, proof, thumbnails, image, photos, picture, media, clients, photo album
 Requires at least: 3.8.0
 Tested up to: 3.4
