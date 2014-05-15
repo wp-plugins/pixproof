@@ -24,5 +24,5 @@ These can be either public galleries (you will use the fact that the URL is not 
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.5 =
 * This is where all the magic started.
