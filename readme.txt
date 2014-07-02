@@ -3,7 +3,7 @@ Contributors: babbardel, vlad.olaru, euthelup, cristianfrumusanu
 Tags: gallery, proofing, images, photography, proof, thumbnails, image, photos, picture, media, clients, photo album
 Requires at least: 3.8.0
 Tested up to: 3.4
-Stable tag: 1.0.5
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,10 @@ You can read more about PixProof plugin on this article: [How to proof photos wi
 1. Go to ‘Proof Galleries’ menu and add manage your galleries
 
 == Changelog ==
+
+= 1.0.7 =
+* General style fixes
+* Fix private galleries
 
 = 1.0.5 =
 * This is where all the magic started.
