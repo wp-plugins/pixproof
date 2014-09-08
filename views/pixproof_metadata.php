@@ -45,8 +45,7 @@
 		<!--
 		<?php
 		}
-		if ( ! empty( $file )) {
-		?>
+		if ( ! empty( $file )) { ?>
 			-->
 		<div class="grid__item  one-half  lap-and-up-one-quarter">
 			<div class="entry__meta-box">
