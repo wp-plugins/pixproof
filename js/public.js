@@ -84,7 +84,7 @@
 		var download_button = $('.js-download');
 		download_button.attr('disabled', 'disabled');
 
-		$('.js-proof-photo').each(function(i,el){
+		$('.proof-photo').each(function(i,el){
 			if ( $(this).hasClass('selected') ) {
 				download_button.removeAttr('disabled');
 			}

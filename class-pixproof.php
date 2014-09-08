@@ -372,6 +372,12 @@ class PixProofPlugin {
 		$event_date  = get_post_meta( get_the_ID(), '_pixproof_event_date', true );
 
 		if ( self::$plugin_settings[ 'enable_archive_zip_download' ] ) {
+
+			// this must be here
+			if (!class_exists('PclZip')) {
+				require ABSPATH . 'wp-admin/includes/class-pclzip.php';
+			}
+
 			// if the user wants a download link, now we qenerate it
 			if ( ! isset( self::$plugin_settings[ 'zip_archive_generation' ] ) || self::$plugin_settings[ 'zip_archive_generation' ] == 'manual' ) {
 				$file = get_post_meta( get_the_ID(), '_pixproof_file', true );
